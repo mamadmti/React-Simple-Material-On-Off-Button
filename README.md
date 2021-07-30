@@ -14,4 +14,4 @@ contact me on instagram if you ever needed any help @mamadmti
 
 ************************************
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/45595734/127699068-b48e85fa-cab4-4dc9-95b4-304a054dda8c.png)
