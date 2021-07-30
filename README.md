@@ -2,6 +2,9 @@
  simple sample of react on & off button using bootstrap 4
 
 
+![image](https://user-images.githubusercontent.com/45595734/127699068-b48e85fa-cab4-4dc9-95b4-304a054dda8c.png)
+
+
 ************************************
 
 First you have to just install bootstrap 4 on your project
@@ -13,5 +16,3 @@ good lock
 contact me on instagram if you ever needed any help @mamadmti
 
 ************************************
-
-![image](https://user-images.githubusercontent.com/45595734/127699068-b48e85fa-cab4-4dc9-95b4-304a054dda8c.png)
