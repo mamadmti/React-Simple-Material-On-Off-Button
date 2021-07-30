@@ -1,0 +1,25 @@
+.but-nav-div {
+  height: fit-content;
+  background-color: #d2d2d2;
+
+  border-style: solid;
+  border-width: thin;
+  border-color: #d2d2d2;
+}
+
+.but-nav-div:first-child {
+  border-radius: 15px 0 0 15px;
+}
+
+.but-nav-div:last-child {
+  border-radius: 0 15px 15px 0;
+}
+
+.but-nav {
+  padding: 2vh;
+}
+.sel-but-nav {
+  background-color: white;
+  padding: 2vh;
+  border-radius: 15px;
+}
